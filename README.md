@@ -6,10 +6,10 @@
 - 📫 How to reach me ...
 --->
 ````yaml
-name: "@strobi-bunni"
+nickname: "@strobi-bunni"
 language: [ko, en]
 programmingLanguage: [Python]
-programmingLanguageLearning: [C, C#, JavaScript]
+programmingLanguageLearning: [C, Csharp, JavaScript]
 comment: |
     Nice to meet you! :D
 ````
